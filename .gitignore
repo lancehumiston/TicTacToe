@@ -1,0 +1,10 @@
+*.meta
+
+Temp/
+build/
+/Library/
+
+.vs/
+/*.userprefs
+/*.csproj
+/*.sln*
